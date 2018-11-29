@@ -81,7 +81,7 @@ nav ul li a:hover{
   margin-left: 10px;
   margin-bottom: 15px;
   float: left;
-  border: 1px solid black;
+  border: 1px solid #EF233C;
   border-radius: 5px;
   padding: 20px;
   width: 800px;
@@ -97,7 +97,7 @@ nav ul li a:hover{
 .row3{
  margin-right: 20px;
  margin-top: -250px;
- border: 1px solid black;
+ border: 1px solid #EF233C;
  border-radius: 5px;
  padding: 20px;
  font-size: 105%;
