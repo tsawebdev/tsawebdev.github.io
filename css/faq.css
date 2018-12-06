@@ -88,5 +88,5 @@ body{
 }
 
   nav ul{
-    padding-left: 20px;
+    float: left;
   }
