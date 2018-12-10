@@ -164,16 +164,9 @@ body{
     padding-left: 20px;
   }
 
-  .row1, .row2{
-    width: 450px;
-}
-
-  .row1 img, .row2 img{
-    margin-left: 25px;
-  }
-
-  .row3{
-    margin-top: 50px;
+ .row1, .row2, .row3{
+   float: none;
+   width: 600px;
   }
 
 footer{
