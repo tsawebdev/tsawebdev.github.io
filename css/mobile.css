@@ -76,6 +76,51 @@ hr{
   
 }
 
+.column1 {
+    float: left;
+    width: 390px;
+    border: 1px solid black;
+    border-radius: 4px;
+    text-align: left;
+    padding: 15px;
+    height: 460px;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-top: 100px;
+    background-color: #2B2D42;
+    color: #ffffff;
+    text-align: center;
+}
+
+.column2 {
+    float: left;
+    width: 390px;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 15px;
+    height: 460px;
+    margin: 10px;
+    margin-right: 10px;
+    margin-top: 100px;
+    background-color: #2B2D42;
+    color: #ffffff;
+    text-align: center;
+}
+
+.column3 {
+    float: left;
+    width: 390px;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 15px;
+    height: 460px;
+    margin: 9px;
+    margin-top: 100px;
+    background-color: #2B2D42;
+    color: #ffffff;
+    text-align: center;
+}
+
 /* footer */
 
 footer{
