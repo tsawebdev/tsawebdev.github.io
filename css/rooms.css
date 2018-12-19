@@ -85,7 +85,7 @@ nav ul li a:hover{
 
 #img1{
   float: right;
-  padding-left: 10px;
+  margin-left: 10px;
 }
 
 .row2{
@@ -102,7 +102,6 @@ nav ul li a:hover{
 
 #img2{
   float: left;
-  width: 55%;
 }
 
 
@@ -120,7 +119,7 @@ nav ul li a:hover{
 }
 
 #img3{
-  width: 90%;
+
 }
 
 .row1 p, .row2 p{
