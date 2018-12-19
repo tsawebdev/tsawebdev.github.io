@@ -83,7 +83,7 @@ nav ul li a:hover{
   text-align: center;
 }
 
-.row1 img{
+#img1{
   float: right;
   padding-left: 10px;
 }
@@ -100,7 +100,7 @@ nav ul li a:hover{
 }
 
 
-.row2 img{
+#img2{
   float: left;
   width: 55%;
 }
@@ -119,7 +119,7 @@ nav ul li a:hover{
  height: 300px;
 }
 
-.row3 img{
+#img3{
   width: 90%;
 }
 
