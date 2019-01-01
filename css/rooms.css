@@ -110,11 +110,12 @@ nav ul li a:hover{
 }
 
 .pricing{
-  border: 2px solid #EF223C;
-  border-radius: 4px;
+  border: 1px solid #EF223C;
+  border-radius: 6px;
   text-align: center;
   list-style: none;
-  margin: 1200px 20px 50px 20px;
+  margin: 1400px 20px 50px 20px;
+  padding: 20px;
 }
 
 
