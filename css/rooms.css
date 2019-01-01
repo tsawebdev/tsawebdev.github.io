@@ -111,6 +111,9 @@ nav ul li a:hover{
 
 .pricing{
   border: 2px solid #EF223C;
+  border-radius: 4px;
+  text-align: center;
+  margn-top: 300px;
 }
 
 
