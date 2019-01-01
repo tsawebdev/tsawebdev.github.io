@@ -72,74 +72,41 @@ nav ul li a:hover{
   margin-top: 50px;
 }
 
-.row1{
-  margin-left: 20px;
-  margin-top: 60px;
-  float: left;
-  border: 1px solid #EF233C;
-  border-radius: 5px;
-  padding: 20px;
-  width: 300px;
+.rooms{
   text-align: center;
 }
 
-#img1{
-  float: right;
-  margin-right: 475px;
-  margin-top: 60px;
-}
-
-.row2{
-  margin-right: 470px;
-  margin-top: 160px;
-  float: right;
-  border: 1px solid #EF233C;
+.row1, .row2{
+  margin-top: 40px;
+  margin-left: 10px;
+  margin-bottom: 15px;
+  float: left;
+  border: 1px solid black;
   border-radius: 5px;
   padding: 20px;
-  width: 300px;
-  text-align: center;
+  width: 800px;
 }
 
+.row1 img, .row2 img{
+  float: right;
+  padding-left: 10px;
 
-#img2{
-  float: left;
-  margin-left: 20px;
-  margin-top: 60px;
 }
 
 
 .row3{
- margin-right: 250px;
- margin-top: -675px;
- border: 1px solid #EF233C;
+ margin-right: 20px;
+ margin-top: -250px;
+ border: 1px solid black;
  border-radius: 5px;
  padding: 20px;
  font-size: 105%;
- text-align: center;
  float: right;
- width: 300px;
- height: 300px;
+ width: 400px;
 }
 
-#img3{
- margin-top: 120px;
-}
-
-.row1 p, .row2 p{
-   padding: 10px;
-}
-
-.pricing{
-  margin: 950px 30px 10px 30px;
-  border: 1px solid #EF233C;
-  border-radius: 10px;
-  padding: 20px 50px 50px 50px;
-  font-size: 110%;
-  text-align: center;
-}
-
-.pricing ul{
-  list-style: none;
+.row3 img{
+  width: 90%;
 }
 
 
@@ -147,7 +114,7 @@ nav ul li a:hover{
 
 footer{
   padding: 20px;
-  margin-top: 120px;
+  margin-top: 1000px;
   color: #ffffff;
   background-color: #2B2D42;
   text-align: center;
@@ -167,12 +134,20 @@ body{
     padding-left: 20px;
   }
 
- .row1, .row2, .row3{
-   float: none;
-   width: 600px;
+  .row1, .row2{
+    width: 450px;
+}
+
+  .row1 img, .row2 img{
+    margin-left: 25px;
+  }
+
+  .row3{
+    margin-top: 50px;
   }
 
 footer{
   margin-top: 2000px;
 }
 }
+
