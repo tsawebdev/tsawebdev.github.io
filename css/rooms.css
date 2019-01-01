@@ -113,7 +113,10 @@ nav ul li a:hover{
   border: 2px solid #EF223C;
   border-radius: 4px;
   text-align: center;
-  margn-top: 300px;
+  list-style: none;
+  margin-top: 300px;
+  margin-bottom: 50px;
+  padding: 20px;
 }
 
 
