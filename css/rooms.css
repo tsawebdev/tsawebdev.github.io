@@ -90,15 +90,18 @@ nav ul li a:hover{
 .row1 img, .row2 img{
   float: right;
   padding-left: 10px;
+}
 
+ .row2 img{
+  float: left;
+  padding-right: 10px;
 }
 
 
 .row3{
  margin-right: 20px;
  margin-top: -250px;
- border: 1px solid #EF233C;
- border-radius: 5px;
+
  padding: 20px;
  font-size: 105%;
  float: right;
