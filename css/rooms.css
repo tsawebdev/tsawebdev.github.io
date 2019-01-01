@@ -120,7 +120,7 @@ nav ul li a:hover{
   border-radius: 6px;
   text-align: center;
   list-style: none;
-  margin: 1200px 20px 50px 20px;
+  margin: 1000px 20px 50px 20px;
   padding: 20px;
 }
 
@@ -129,7 +129,7 @@ nav ul li a:hover{
 
 footer{
   padding: 20px;
-  margin-top: 400px;
+  margin-top: 200px;
   color: #ffffff;
   background-color: #2B2D42;
   text-align: center;
