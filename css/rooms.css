@@ -110,7 +110,8 @@ nav ul li a:hover{
 }
 
 #row3-img{
- width: 50%;
+ height: 500px;
+ width: 200px;
  margin-left: 850px;
  margin-top: -600px;
 }
