@@ -108,7 +108,7 @@ nav ul li a:hover{
  width: 400px;
 }
 
-.row3 p{
+.row3 h1, .row3 p{
   border: 1px solid #EF223C;
 }
   
