@@ -81,6 +81,7 @@ nav ul li a:hover{
   margin-left: 10px;
   margin-bottom: 15px;
   float: left;
+  border: 1px solid #EF223C;
   border-radius: 5px;
   padding: 20px;
   width: 800px;
@@ -108,7 +109,7 @@ nav ul li a:hover{
 }
 
 .row3 p{
-  border 1px solid #EF223C;
+  border: 1px solid #EF223C;
 }
   
 .row3 img{
