@@ -89,10 +89,12 @@ nav ul li a:hover{
 
 #row1-img{
   float: right;
+  padding-left: 10px;
 }
 
  #row2-img{
   float: left;
+  padding-right: 10px;
 }
 
 
