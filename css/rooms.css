@@ -102,6 +102,7 @@ nav ul li a:hover{
  margin-right: 20px;
  margin-top: -250px;
  border: 1px solid #EF223C;
+ border-raduis: 6px;
  padding: 20px;
  font-size: 105%;
  float: right;
@@ -109,8 +110,9 @@ nav ul li a:hover{
 }
 
 #row3-img{
+ width: 50%;
  margin-left: 850px;
- margin-top: -80px;
+ margin-top: -600px;
 }
 
 .pricing{
