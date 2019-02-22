@@ -119,9 +119,11 @@ hr{
 
 .pricing{
   margin-top: 1000px;
+  margin-left: 100px;
+  margin-right: 100px;
   padding: 10px;
   border: 2px solid red;
-  boder-radius: 4px;
+  boder-radius: 6px;
 }
 
 /* footer */
