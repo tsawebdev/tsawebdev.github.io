@@ -115,6 +115,15 @@ hr{
     text-align: center;
 }
 
+/*Pricing*/
+
+.pricing{
+  margin-top: 50px;
+  padding: 10px;
+  border: 2px solid red;
+  boder-radius: 4px;
+}
+
 /* footer */
 
 footer{
