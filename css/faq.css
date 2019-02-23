@@ -79,7 +79,7 @@ section p{
   background: #ffffff;
 }
 
-section a {
+#menu1, #menu2, #menu3, #menu4, #menu5, #menu6, #menu7, #menu8, #menu9 {
 text-decoration: none;
 display: block;
 text-align: left;
@@ -93,10 +93,6 @@ color: white;
 section:target p{
   max-height: 20em;
   padding: 10px;
-}
-
-#mobilelink{
-  background: none;
 }
 
 
