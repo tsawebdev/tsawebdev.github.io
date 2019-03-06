@@ -80,13 +80,13 @@ body{
 }
 
 .title{
-  /*background-image: url(../img/escaperoom.jpg);
+  background-image: url(../img/escaperoom.jpg);
   padding: 10em;
-  width: 77.5%;
+  width: 76.5%;
   height: 100px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;*/
+  background-position: center;
   color: #ffffff;
   margin-bottom: 0;
 }
