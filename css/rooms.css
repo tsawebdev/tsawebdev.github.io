@@ -100,23 +100,8 @@ nav ul li a:hover{
 }
 
 .row3 img{
-  float: left;
+  float: right;
 }
-
-/*
-.row3{
- margin-right: 40px;
- margin-left: 10px;
- border: 1px solid #EF233C;
- border-radius: 5px;
- padding: 20px;
- width: 800px;
-}
-
-
-.row3 img{
-  width: 90%;
-}*/
 
 .pricing{
   border: 1px solid #EF223C;
