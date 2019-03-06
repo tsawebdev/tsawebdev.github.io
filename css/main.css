@@ -171,6 +171,10 @@ footer{
    nav ul{
      padding-left: 15px;
    }
+   
+   nav ul li{
+     padding-left: 20px;
+   }
 
    #title{
      font-size: 30px;
