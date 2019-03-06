@@ -76,7 +76,7 @@ nav ul li a:hover{
   text-align: center;
 }
 
-.row1, .row2{
+.row1, .row2, {
   margin-top: 40px;
   margin-left: 10px;
   margin-bottom: 15px;
@@ -98,7 +98,7 @@ nav ul li a:hover{
 
 }
 
-/*
+
 .row3{
  margin-right: 40px;
  margin-left: 10px;
@@ -107,7 +107,7 @@ nav ul li a:hover{
  padding: 20px;
  width: 800px;
 }
-*/
+
 
 .row3 img{
   width: 90%;
