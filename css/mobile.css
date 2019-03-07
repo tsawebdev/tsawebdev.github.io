@@ -127,6 +127,14 @@ hr{
   text-align: center;
 }
 
+.images{
+  dispay: inline-block;
+}
+
+images img{
+  width: 50%;
+}
+
 /* footer */
 
 footer{
