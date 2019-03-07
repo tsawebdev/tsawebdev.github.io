@@ -99,7 +99,6 @@ body{
 
 .Main{
  text-align: center;
- background-color: #ffffff;
  color: #000000;
  margin: 20px 10px 20px 10px;
  width: 96.5%;
@@ -110,7 +109,9 @@ body{
 
 #columnsintro{
   text-align: center;
+  color: #ffffff;
   margin: 120px 300px 30px 300px;
+  background-color: #2B2D42;
   border: 1px solid #2B2D42;
   padding: 60px;
 }
