@@ -103,7 +103,7 @@ body{
  margin: 20px 10px 20px 10px;
  width: 96.5%;
  padding: 20px 5px 20px 10px;
- border: #EF233C 3px solid;
+ border: #EF233C 1px solid;
  border-radius: 4px;
 }
 
@@ -111,8 +111,8 @@ body{
   text-align: center;
   color: #ffffff;
   margin: 120px 300px 30px 300px;
-  background-color: #2B2D42;
-  border: 1px solid #2B2D42;
+  background-color: #EF233C;
+  border: 1px solid #;
   padding: 60px;
 }
 
