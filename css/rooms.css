@@ -87,7 +87,7 @@ nav ul li a:hover{
   height: 400px;
 }
 
-.row1 img, .row2 img{
+.row1 img, .row2 img, .row3 img{
   float: right;
   padding-left: 10px;
 
@@ -99,13 +99,7 @@ nav ul li a:hover{
 
 }
 
-.row3 img{
-  float: right;
-}
 
-.row3 p, h1{
-  float: left;
-}
 
 .pricing{
   border: 1px solid #EF223C;
