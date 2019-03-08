@@ -104,6 +104,10 @@ nav ul li a:hover{
   padding-left: 10px;
 }
 
+.row3 p{
+  float: left;
+}
+
 .pricing{
   border: 1px solid #EF223C;
   border-radius: 6px;
