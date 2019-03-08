@@ -99,9 +99,6 @@ nav ul li a:hover{
 
 }
 
-.row3 h1{
-  padding-left: 10px;
-}
 
 
 .pricing{
@@ -109,7 +106,7 @@ nav ul li a:hover{
   border-radius: 6px;
   list-style: none;
   text-align: center;
-  margin: 600px 20px 50px 20px;
+  margin: 400px 20px 50px 20px;
   padding: 20px;
 }
 
