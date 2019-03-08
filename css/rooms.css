@@ -103,7 +103,7 @@ nav ul li a:hover{
   float: right;
 }
 
-.row3 p{
+.row3 p, h1{
   float: left;
 }
 
